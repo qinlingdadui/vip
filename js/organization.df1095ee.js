@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["organization"],{e4eb:function(n,t,a){"use strict";a.r(t);var e=function(){var n=this,t=n.$createElement,a=n._self._c||t;return a("div",{staticClass:"organization"},[n._v("organization")])},i=[],o={},r=o,s=a("2877"),l=Object(s["a"])(r,e,i,!1,null,null,null);t["default"]=l.exports}}]);
-//# sourceMappingURL=organization.df1095ee.js.map

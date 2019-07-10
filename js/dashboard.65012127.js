@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["dashboard"],{7277:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"dashboard"},[n("p",[e._v("待开发")]),n("p",[e._v("系统目前可体验的功能：")]),n("p",[e._v("会员管理：会员添加、会员搜索、编号总览")]),n("p",[e._v("系统设置：车型设置、车色设置")])])}],r={},c=r,l=n("2877"),u=Object(l["a"])(c,a,s,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=dashboard.65012127.js.map

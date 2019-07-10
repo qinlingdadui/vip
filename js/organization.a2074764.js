@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["organization"],{e4eb:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"organization"},[n._v("待开发")])},i=[],o={},s=o,l=e("2877"),r=Object(l["a"])(s,a,i,!1,null,null,null);t["default"]=r.exports}}]);
+//# sourceMappingURL=organization.a2074764.js.map
